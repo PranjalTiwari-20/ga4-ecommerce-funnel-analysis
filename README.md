@@ -1,13 +1,13 @@
 # ga4-ecommerce-funnel-analysis
 End-to-end GA4 funnel analysis using SQL, Python &amp; Power BI
 GA4 E-Commerce Funnel & Revenue Leakage Analysis
-📊 Project Overview
+## Project Overview
 
 This project analyzes user behavior across an e-commerce funnel using GA4 event data to understand where users drop off before completing a purchase and how those drop-offs impact revenue.
 
 The goal is to combine technical analysis with business interpretation to identify conversion inefficiencies and quantify potential revenue leakage.
 
-🧠 Business Problem
+## Business Problem
 
 In an e-commerce environment, thousands of users enter the funnel daily, but only a small fraction complete the purchase journey.
 
@@ -21,7 +21,7 @@ Estimate the financial impact of user abandonment
 
 This project addresses these gaps through stage-wise analysis and revenue estimation.
 
-🎯 Objectives
+## Objectives
 
 Analyze 358K users across 5 funnel stages
 
@@ -32,8 +32,7 @@ Compute overall and stage-level conversion rates
 Estimate potential revenue leakage
 
 Build an executive-level Power BI dashboard
-
-📂 Data & Methodology
+## Data & Methodology
 
 Funnel Stages Analyzed:
 
@@ -47,7 +46,7 @@ Begin Checkout
 
 Purchase
 
-Workflow:
+## Workflow:
 
 SQL used to aggregate GA4 event-level data
 
@@ -55,7 +54,7 @@ Python used for drop-off calculations and revenue estimation
 
 Power BI used to build KPI cards, funnel visualization, and revenue leakage analysis
 
-📈 Key Metrics
+## Key Metrics
 
 Total Funnel Users: 358K
 
@@ -65,7 +64,7 @@ Overall Conversion Rate: 1.6%
 
 Estimated Revenue Leakage: ₹21.77M
 
-🔍 Key Insights
+## Key Insights
 
 The largest drop-off occurs between Page View and View Item.
 
@@ -75,9 +74,11 @@ Only 1.6% of total users complete the purchase journey.
 
 Product exploration stage appears to be the primary friction point.
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-💡 Business Recommendations
+![Dashboard Preview](dashboard_preview.png)
+
+## Business Recommendations
 
 Improve product page UX and clarity
 
@@ -87,7 +88,7 @@ Implement retargeting for drop-off users
 
 Reduce friction in checkout flow
 
-🛠 Tools Used
+## Tools Used
 
 SQL
 
