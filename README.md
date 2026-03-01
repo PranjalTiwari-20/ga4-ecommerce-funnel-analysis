@@ -57,7 +57,7 @@ Purchase
 - Purchases: **4K**
 - Overall Conversion Rate: **1.6%**
 - Estimated Revenue Leakage: **₹21.77M**
-- 
+  
 ## Key Insights
 
 The largest drop-off occurs between Page View and View Item.
