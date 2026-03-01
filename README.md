@@ -48,11 +48,11 @@ Purchase
 
 ## Workflow:
 
-SQL used to aggregate GA4 event-level data
+### Workflow
 
-Python used for drop-off calculations and revenue estimation
-
-Power BI used to build KPI cards, funnel visualization, and revenue leakage analysis
+- SQL used to aggregate GA4 event-level data
+- Python used for drop-off calculations and revenue estimation
+- Power BI used to build KPI cards, funnel visualization, and revenue leakage analysis
 
 ## Key Metrics
 
