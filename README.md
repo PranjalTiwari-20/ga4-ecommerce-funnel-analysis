@@ -48,22 +48,16 @@ Purchase
 
 ## Workflow:
 
-### Workflow
-
 - SQL used to aggregate GA4 event-level data
 - Python used for drop-off calculations and revenue estimation
 - Power BI used to build KPI cards, funnel visualization, and revenue leakage analysis
 
 ## Key Metrics
-
-Total Funnel Users: 358K
-
-Purchases: 4K
-
-Overall Conversion Rate: 1.6%
-
-Estimated Revenue Leakage: ₹21.77M
-
+- Total Funnel Users: **358K**
+- Purchases: **4K**
+- Overall Conversion Rate: **1.6%**
+- Estimated Revenue Leakage: **₹21.77M**
+- 
 ## Key Insights
 
 The largest drop-off occurs between Page View and View Item.
