@@ -1,5 +1,5 @@
 # ga4-ecommerce-funnel-analysis
-End-to-end GA4 funnel analysis using SQL, Python &amp; Power BI
+End-to-end GA4 funnel analysis to identify conversion inefficiencies and quantify revenue leakage using SQL, Python & Power BI.
 GA4 E-Commerce Funnel & Revenue Leakage Analysis
 ## Project Overview
 
@@ -80,14 +80,15 @@ Product exploration stage appears to be the primary friction point.
 
 ## Business Recommendations
 
-Improve product page UX and clarity
+Improve product page UX to reduce early-stage drop-offs between Page View and View Item.
 
-Optimize product descriptions and visuals
+Optimize product descriptions and visual hierarchy to increase engagement.
 
-Implement retargeting for drop-off users
+Implement retargeting campaigns for high-intent users who abandon at Add to Cart.
 
-Reduce friction in checkout flow
+Simplify checkout flow to increase completion rate beyond 1.6%.
 
+Prioritize optimization at high-traffic stages, as marginal improvements here can significantly reduce ₹21.77M revenue leakage.
 ## Tools Used
 
 SQL
